@@ -1,0 +1,11 @@
+Obj:
+To reduce the timing issue/packet loss issue in our existing hardware using RTL side, software side, ROS side predominantly and thereby improving the overall efficiency of the system.
+
+Maj Learning Outcomes:
+Reduction methods of timing issue in hardware was a major learning outcome. It was done through multiple iterations of data recording and analyzing. 
+
+Working Env:
+The working environment at CAIR is very engaging and good. Scientists here has vast experience related to various things are very approachable and give inputs to us whenever needed. As it is a DRDO lab, restrictions on carrying our mobile phones and movement to different areas was there. Overall it was a learning experience.
+ 
+Short Summary:
+My project started with reading some IEEE papers and some journals related to Visual Inertial sensors and understanding how they operate in principle. Then I learnt about various sensors in my hardware project like IMU, GPS, Image sensors, linux and most importantly Robot Operating System (ROS-1) which is predominantly used in CAIR. These initial learnings helped me to start working on my hardware. Hardware I was working on had some issues like timing issue, packet loss which I started working on. I have done multiple data recording and analyses to see where timing issue was coming from and tried to refactor IMU frequency and trigger signal frequency which was a very key area. My project had multiple sides like RTL, Software and ROS side. Have done multiple iterations of Calibration to determine noise parameters and improve overall timing efficiency of the system.
